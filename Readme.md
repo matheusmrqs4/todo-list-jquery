@@ -9,5 +9,14 @@
 </ul>
 
 <h2>Tecnologias Usadas:</h2>
-<h4>HTML, CSS, JavaScript e jQuery</h4>
+<ul>
+<li>HTML;</li>
+<li>CSS;</li>
+<li>Javascript;</li>
+<li>jQuery</li>
+</ul>
 
+<h1>Resultado Final:</h1>
+<img src="https://i.imgur.com/KTeLa7Z.png">
+
+<h2><a href="https://matheusmrqs4.github.io/todo-list-jquery/">Projeto no GitHub Pages</a> </h2>
